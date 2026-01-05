@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Krishna 👋  
+B.Tech student in Artificial Intelligence & Machine Learning.  
 
-<!--
-**krishna-gunda/krishna-gunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.  
+I enjoy working on real-world datasets to extract insights and support decision-making.
 
-Here are some ideas to get you started:
+🔧 Skills:
+- Python, SQL
+- Pandas, NumPy, Matplotlib, Seaborn
+- Power BI, Excel
+- Data Cleaning, EDA, Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Links:
+- GitHub: https://github.com/krishna-gunda
+- LinkedIn: https://www.linkedin.com/in/g-krishna630534/
+- Resume: https://drive.google.com/file/d/1-Q3s16V5KTHSGbJgppv6MvWmprGr9PF7/view?usp=sharing
+
