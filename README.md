@@ -1,18 +1,6 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ██████╗     ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗  ██╗ ║
-║   ██╔════╝    ██╔╝ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗ ██║ ║
-║   ██║  ███╗  ██╔╝ ██╔╝ ██████╔╝██║███████╗███████║██╔██╗██║ ║
-║   ██║   ██║ ██╔╝ ██╔╝  ██╔══██╗██║╚════██║██╔══██║██║╚████║ ║
-║   ╚██████╔╝██╔╝ ██╔╝   ██║  ██║██║███████║██║  ██║██║ ╚███║ ║
-║    ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚══╝ ║
-║                                                               ║
-║           [ AI/ML Engineer | Builder | Explorer ]            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+RAG+Systems+%7C+LLMs+%7C+Computer+Vision;NLP+%7C+Deep+Learning+%7C+Generative+AI;Open+to+Collaborate+%26+Build+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
