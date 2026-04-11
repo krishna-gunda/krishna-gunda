@@ -169,7 +169,7 @@ $ python build_the_future.py
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [x] 🏢 Land AI/ML Internship
 - [x] 🔨 Build end-to-end RAG system
