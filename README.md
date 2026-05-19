@@ -1,214 +1,178 @@
 <div align="center">
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+RAG+Systems+%7C+LLMs+%7C+Computer+Vision;NLP+%7C+Deep+Learning+%7C+Generative+AI;Open+to+Collaborate+%26+Build+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-g--krishna630534-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-krishna630534)
-[![GitHub](https://img.shields.io/badge/GitHub-krishna--gunda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna-gunda)
-[![Gmail](https://img.shields.io/badge/Gmail-gundakrishna2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundakrishna2004@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Hyderabad,_India-00FF41?style=for-the-badge)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=G.%20Krishna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18" />
 
 </div>
 
 ---
 
+<div align="center">
+
+### 👋 Hey, I'm Krishna — an AI/ML Engineer & Data Scientist from Hyderabad, India
+
+</div>
+
+> 🎓 Final-year B.Tech student in **AI & Machine Learning** @ Joginpally B.R. Engineering College (CGPA: 8.0)  
+> 💼 **Data Scientist Intern** @ Vihara Tech — building real-world ML pipelines, REST APIs & analytics solutions  
+> 🔍 Actively exploring **Generative AI, LLMs, and RAG-based systems**  
+> 🚀 Passionate about turning raw data into intelligent, deployable AI products  
+
+---
+
+## 🧠 What I Do
+
 ```python
-class GKrishna:
-    def __init__(self):
-        self.name        = "G. Krishna"
-        self.role        = "AI/ML Engineer"
-        self.location    = "Hyderabad, Telangana, India"
-        self.education   = "B.Tech in AI & ML — JBREC (2022–2026) | CGPA: 8.0"
-        self.current     = "Data Scientist Intern @ Vihara Tech"
-        self.interests   = ["LLMs", "RAG Systems", "Computer Vision", "Generative AI"]
-        self.superpower  = "Turning data into decisions 🤖"
-
-    def say_hi(self):
-        return "Hey! I build AI systems that actually work in the real world."
-
-me = GKrishna()
-print(me.say_hi())
+krishna = {
+    "role"       : "AI/ML Engineer & Data Scientist",
+    "focus"      : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+    "building"   : "End-to-end ML pipelines → deployed AI applications",
+    "exploring"  : ["Generative AI", "LLMs", "RAG Systems", "MLOps"],
+    "open_to"    : "Fresher / Entry-level roles in Data Science & AI/ML"
+}
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### 🐍 Core Languages & DBs
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🤖 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🧠 Generative AI & LLMs
-![OpenAI](https://img.shields.io/badge/GPT%2FBERT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 👁️ Computer Vision & NLP
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLP%20%7C%20TF--IDF-008080?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Deployment & Cloud
+### APIs & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</div>
+### GenAI & NLP
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-6f42c1?style=for-the-badge&logo=openai&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-009900?style=for-the-badge&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔹 [AI-Powered Customer Retention Prediction System](https://github.com/krishna-gunda/YOUR-REPO-LINK) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://your-live-link.com)
 
-### 🔍 RAG System — Traffic Law QA
-> *LangChain · FAISS · Groq LLM · FastAPI · Sentence-Transformers*
+> End-to-end churn prediction with explainable AI — deployed as a REST API
 
-Built an end-to-end **Retrieval-Augmented Generation** pipeline to answer Tamil Nadu traffic regulation queries from legal PDFs.
+- Built ensemble models (Logistic Regression, Random Forest, SVM, **XGBoost**) for customer churn prediction
+- Applied **SHAP** explainability to interpret and communicate model decisions
+- Deployed a **Flask REST API** containerized with **Docker** for production-grade inference
+- Managed full lifecycle with Git, GitHub, and CI/CD
 
-- 📄 PDF extraction + semantic chunking
-- 🧮 High-dimensional embeddings via Sentence-Transformers
-- ⚡ FAISS vector DB for real-time similarity retrieval
-- 🔗 Groq-hosted LLM via LangChain for context-grounded answers
-- 🚀 Deployed as a **FastAPI REST service**
-
-```
-Extract → Chunk → Embed → Retrieve → Generate
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Medical Chatbot — NLP + ML
-> *SVM · TF-IDF · Flask · scikit-learn*
-
-NLP-powered chatbot for **symptom classification** and preliminary diagnosis assistance.
-
-- 🔤 Tokenization, stopword removal, lemmatization
-- 📊 TF-IDF feature engineering
-- 🤖 SVM multi-class classifier with cross-validation
-- 🌐 Deployed as a **real-time Flask web app**
-- 📈 Evaluated with Accuracy, Precision, Recall, F1
-
-```
-Input → Preprocess → Vectorize → Classify → Output
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✋ Gesture-Based Secure Communication
-> *OpenCV · LSB Steganography · Python*
-
-Multimodal AI system combining **gesture recognition** with **steganographic message hiding**.
-
-- 🖐️ Real-time hand gesture detection via OpenCV
-- 🔐 LSB steganography to embed messages in images
-- 🗺️ Gesture-to-text mapping for HCI
-- 🛡️ Privacy-preserving, modular architecture
-
-```
-Gesture Auth → Encode → Hide in Image → Transmit
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Explore More
-> Always building something new
-
-- All projects live on **[GitHub →](https://github.com/krishna-gunda)**
-- Open to **collaborations**, research, and freelance AI work
-- Drop a ⭐ if something helps you!
-
-```bash
-$ git clone https://github.com/krishna-gunda
-$ cd awesome-ai-projects
-$ python build_the_future.py
-```
-
-</td>
-</tr>
-</table>
+`Python` `XGBoost` `Flask` `SHAP` `Docker` `REST API`
 
 ---
 
-## 🌱 Currently Learning
+### 🔹 [Multi-Model Food Classification & Nutritional Analysis](https://github.com/krishna-gunda/YOUR-REPO-LINK)
 
-```bash
-╔══════════════════════════════════════════════════════╗
-║  $ ls ~/currently-learning/                          ║
-║                                                      ║
-║  📦  advanced-transformer-architectures/             ║
-║  📦  multi-agent-llm-systems/                        ║
-║  📦  multimodal-ai-vision-language-models/           ║
-║  📦  mlops-production-deployment/                    ║
-║  📦  fine-tuning-open-source-llms/                   ║
-║                                                      ║
-║  $ echo "Building toward AGI, one model at a time"  ║
-║  > Building toward AGI, one model at a time          ║
-╚══════════════════════════════════════════════════════╝
-```
+> 34-class food image classifier using CNN, VGG16, and ResNet50 — with a Streamlit UI
+
+- Designed and trained **CNN, VGG16, ResNet50** for 34-class food image classification
+- Applied **transfer learning**, image augmentation, and preprocessing with OpenCV & TensorFlow
+- Evaluated with Accuracy, Precision, Recall, F1-score, and Confusion Matrix
+- Built an interactive **Streamlit app** for real-time food recognition and nutritional analysis
+
+`TensorFlow` `PyTorch` `CNN` `VGG16` `ResNet50` `Streamlit` `OpenCV`
 
 ---
 
-## 🎯 2026 Goals
+### 🔹 [Automated ETL Data Pipeline](https://github.com/krishna-gunda/YOUR-REPO-LINK)
 
-- [x] 🏢 Land AI/ML Internship
-- [x] 🔨 Build end-to-end RAG system
-- [x] 🤖 Deploy ML models to production
-- [ ] 📝 Publish open-source AI project
-- [ ] 🎓 Complete B.Tech with distinction
-- [ ] 🌍 Contribute to a major AI/ML open-source repo
-- [ ] 🚀 Build a multimodal GenAI product
+> Production-ready ETL pipeline with FastAPI, SQLite, Docker & CI/CD
+
+- Built a full ETL pipeline to ingest, clean, transform, and load CSV/JSON into **SQLite**
+- Exposed **FastAPI** endpoints for automated data ingestion and querying
+- Containerized with **Docker** and tested with **Pytest** unit tests
+- Configured **GitHub Actions** for automated CI/CD workflows
+
+`Python` `FastAPI` `SQLite` `Docker` `Pytest` `GitHub Actions`
+
+---
+
+### 🔹 [Email Spam Classifier — NLP](https://github.com/krishna-gunda/YOUR-REPO-LINK)
+
+> Complete NLP pipeline using TF-IDF + Naive Bayes on 5,572 real emails
+
+- Built end-to-end text preprocessing pipeline: lowercasing → punctuation removal → stopword filtering → **lemmatization**
+- Vectorized text using **TF-IDF** and trained a **Gaussian Naive Bayes** classifier
+- Achieved strong accuracy on both train and test splits
+
+`Python` `NLTK` `Scikit-learn` `TF-IDF` `Naive Bayes`
+
+---
+
+## 💼 Experience
+
+**Data Scientist Intern — Vihara Tech, Hyderabad** *(Sep 2025 – Present)*
+
+- Developed end-to-end ML pipelines using Python, Scikit-learn, Pandas, and SQL for business analytics
+- Built classification & regression models with hyperparameter tuning via GridSearchCV
+- Designed and deployed REST APIs using Flask for real-time ML inference
+- Performed EDA, feature engineering, and model evaluation
+- Collaborated on AI-driven analytics dashboards and scalable ML solutions
 
 ---
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Issuer |
-|---|---|
-| Data Scientist Internship | Vihara Tech |
-| Virtual Data Analytics Internship | Deloitte |
+- 🏆 **Data Scientist Internship Certificate** — Vihara Tech
+- 🏆 **Deloitte Data Analytics Job Simulation** — Forage
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The best way to predict the future is to build it."      ║
-║                                          — Alan Kay         ║
-║                                                              ║
-║              Let's connect and build something              ║
-║              that matters. 🤝                               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-gunda&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=krishna-gunda&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-gunda&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krishna-gunda&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-krishna630534)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna-gunda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundakrishna338@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>⚡ Crafted with code, caffeine, and curiosity | G. Krishna © 2025</sub>
+
+*"Data is the new oil — and I'm here to refine it."* 🛢️🔥
+
+![Profile Views](https://komarev.com/ghpvc/?username=krishna-gunda&color=1f6feb&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
+
 </div>
