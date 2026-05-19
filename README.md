@@ -71,7 +71,7 @@ krishna = {
 
 ## 🚀 Featured Projects
 
-### 🔹 [AI-Powered Customer Retention Prediction System](https://github.com/krishna-gunda/YOUR-REPO-LINK) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://your-live-link.com)
+### 🔹 [AI-Powered Customer Retention Prediction System](https://github.com/krishna-gunda/YOUR-REPO-LINK) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://ai-powered-customer-retention-prediction-ld42.onrender.com/)
 
 > End-to-end churn prediction with explainable AI — deployed as a REST API
 
@@ -97,18 +97,7 @@ krishna = {
 
 ---
 
-### 🔹 [Automated ETL Data Pipeline](https://github.com/krishna-gunda/YOUR-REPO-LINK)
 
-> Production-ready ETL pipeline with FastAPI, SQLite, Docker & CI/CD
-
-- Built a full ETL pipeline to ingest, clean, transform, and load CSV/JSON into **SQLite**
-- Exposed **FastAPI** endpoints for automated data ingestion and querying
-- Containerized with **Docker** and tested with **Pytest** unit tests
-- Configured **GitHub Actions** for automated CI/CD workflows
-
-`Python` `FastAPI` `SQLite` `Docker` `Pytest` `GitHub Actions`
-
----
 
 ### 🔹 [Email Spam Classifier — NLP](https://github.com/krishna-gunda/YOUR-REPO-LINK)
 
